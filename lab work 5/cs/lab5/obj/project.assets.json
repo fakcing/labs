@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyureno\\Desktop\\labs\\lab work 5\\cs\\lab5\\lab5.csproj",
+      "projectUniqueName": "D:\\labs\\lab work 5\\cs\\lab5\\lab5.csproj",
       "projectName": "lab5",
-      "projectPath": "C:\\Users\\kyureno\\Desktop\\labs\\lab work 5\\cs\\lab5\\lab5.csproj",
+      "projectPath": "D:\\labs\\lab work 5\\cs\\lab5\\lab5.csproj",
       "packagesPath": "C:\\Users\\kyureno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyureno\\Desktop\\labs\\lab work 5\\cs\\lab5\\obj\\",
+      "outputPath": "D:\\labs\\lab work 5\\cs\\lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kyureno\\AppData\\Roaming\\NuGet\\NuGet.Config"
