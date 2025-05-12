@@ -26,3 +26,18 @@ C:\Users\kyureno\Desktop\labs\cs\lab4\obj\Debug\net9.0\refint\lab4.dll
 C:\Users\kyureno\Desktop\labs\cs\lab4\obj\Debug\net9.0\lab4.pdb
 C:\Users\kyureno\Desktop\labs\cs\lab4\obj\Debug\net9.0\lab4.genruntimeconfig.cache
 C:\Users\kyureno\Desktop\labs\cs\lab4\obj\Debug\net9.0\ref\lab4.dll
+D:\labs\lab work 4\cs\lab4\bin\Debug\net9.0\lab4.exe
+D:\labs\lab work 4\cs\lab4\bin\Debug\net9.0\lab4.deps.json
+D:\labs\lab work 4\cs\lab4\bin\Debug\net9.0\lab4.runtimeconfig.json
+D:\labs\lab work 4\cs\lab4\bin\Debug\net9.0\lab4.dll
+D:\labs\lab work 4\cs\lab4\bin\Debug\net9.0\lab4.pdb
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.AssemblyInfoInputs.cache
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.AssemblyInfo.cs
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.csproj.CoreCompileInputs.cache
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.sourcelink.json
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.dll
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\refint\lab4.dll
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.pdb
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\lab4.genruntimeconfig.cache
+D:\labs\lab work 4\cs\lab4\obj\Debug\net9.0\ref\lab4.dll
