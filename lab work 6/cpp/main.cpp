@@ -3,7 +3,6 @@
 #include "TextContainer.h"
 
 int main() {
-    // Налаштування кодування UTF-8 для консолі Windows
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
 
