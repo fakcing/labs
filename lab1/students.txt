@@ -1,0 +1,3 @@
+LastName=Іваненко;FirstName=Петро;Course=2;StudentCard=SC123;Gender=M;AverageGrade=5;RecordBook=RB001
+LastName=Коваль;FirstName=Анна;Course=2;StudentCard=SC124;Gender=F;AverageGrade=4,8;RecordBook=RB002
+LastName=Сидоренко;FirstName=Олег;Course=2;StudentCard=SC125;Gender=M;AverageGrade=5;RecordBook=RB003
